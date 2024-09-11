@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owinoElijah
+- 👋 Hi, I’m Owino Elijah
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning at meru university of science and technology 
 - 💞️ I’m looking to collaborate on fundamentals and crucial tools that are using during software engineering 
